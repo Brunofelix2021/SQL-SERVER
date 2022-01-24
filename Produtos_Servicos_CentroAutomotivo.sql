@@ -1,0 +1,17 @@
+INSERT INTO TB_PRODUTO_SERVICO_TPS (TPS_DESCRICAO, TPS_VALOR) VALUES
+('Pneu Hankook aro 16 - 235/60R16 - Optimo K406 - 100H ',498.11),
+('Pneu Continental aro 16 - 235/60R16 CrossContact UHP - 100H ',473.67),
+('Pneu Bridgestone aro 16 - 235/60R16 - Turanza ER300 - 100H ',516.91),
+('Pneu Pirelli aro 16 - 235/60R16 - Scorpion ATR Street - 100H ',629.90),
+('Pneu Nexen aro 16 - 235/60R16 - CP661 - 100H ',499.90),
+('Pneu Michelin aro 16 - 235/60R16 - Latitude Cross - 104H ',601.51),
+('Pneu GT Radial aro 16 - 235/60R16 Champiro 128 - 100H ',559.90),
+('Pneu Goodyear aro 16 - 235/60R16 - Efficientgrip SUV - 100V ',588.90),
+('ALINHAMENTO',150.00),
+('BALANCEAMENTO UNIDADE', 50.00),
+('Pneu 175/70R14 Pirelli P4 ',249.00),
+('Pneu 175/70 R14- Kumho ',209.00),
+('Pneu 175/70R14 Continental Barum ',177.00),
+('Pneu 175/70R14 Pirelli Scorpion Atr ',389.00),
+('PNEU 175/70R14 NEXEN ',165.00),
+('PNEU 175/70R14 GTRADIAL CHAMPIRO ',140.00)
